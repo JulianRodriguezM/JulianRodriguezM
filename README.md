@@ -9,11 +9,11 @@
   <a href="https://github.com/JulianRodriguezM/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=JulianRodriguezM.JulianRodriguezM"></a>
 </p>
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 <h3> 👨‍💻 About Me</h3>
@@ -42,13 +42,33 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=JulianRodriguezM&show_icons=true&locale=en&layout=compact&theme=radical)]()  
   
  </div>
----
+
+###🎨 Some of my Projects!
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JulianRodriguezM&repo=QuintaMuebles)](https://github.com/JulianRodriguezM/QuintaMuebles)
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/JulianRodriguezM">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JulianRodriguezM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JulianRodriguezM&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JulianRodriguezM&theme=dark&hide_border=true"/>
+</p>
 
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
 <a href="mailto:programacion.david26@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/julian-david-rodriguez-martinez-63228a313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/jd.r_martinez/"><img src="https://img.shields.io/badge/-jd.r_martinez-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </a>
 </div>
 
