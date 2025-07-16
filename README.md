@@ -26,7 +26,7 @@
     <li>📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!</li>
 </ul>
 
-#### 🔧 Tools
+### 🔧 Tools
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -43,7 +43,7 @@
   
  </div>
 
-###🎨 Some of my Projects!
+### 🎨 Some of my Projects!
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JulianRodriguezM&repo=QuintaMuebles)](https://github.com/JulianRodriguezM/QuintaMuebles)
 
